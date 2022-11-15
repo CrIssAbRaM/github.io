@@ -1,0 +1,86 @@
+
+h1 {
+	font-family: Helvetica;
+	font-size: 80px;
+	text-align: center;
+	color: #008B8B ;
+	margin: 25px;
+
+}
+
+h2 {
+	font-family: Helvetica;
+	font-size: 35px;
+	text-align: center;
+	color: #00CDCD;
+	margin: 25px;
+}
+
+p {
+	font-family: Times New Roman;
+	font-size: 20px;
+	text-align: justify;
+	color: black;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.testo1 {
+	font-family: Helvetica;
+	font-size: 20px;
+	text-align: justify;
+	color: black;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.bcolor {
+	color: #008B8B ;
+}
+
+.navtab {
+text-align: center;
+}
+
+.tabella {
+	width: 90%;
+	aspect-ratio: 2 / 1 ;
+	text-align: center;
+	border: 1px solid black;
+	font-family: Helvetica;
+}
+
+.tabella td {
+	border: 1px solid black;
+	border-radius: 20px;
+}
+
+.button {
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 30px;
+	color: #fff ;
+	border: none;
+	border-radius: 20px;
+	background-color: #008B8B;
+	cursor: pointer;
+
+}
+
+.divInline2 {
+	display: inline-block;
+	width: 40%;
+	margin: 2%;
+	position: relative;
+	vertical-align: top;
+	text-align: center;
+}
+
+.divInline3 {
+	display: inline-block;
+	width: 28%;
+	margin: 2%;
+	position: relative;
+	vertical-align: top;
+	text-align: center;
+}
